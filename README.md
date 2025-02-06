@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Aditya Rawat!<br>🚀 Data Science Enthusiast | MCA @ IGNOU | Software Developer<br><br>🔍 What I do:<br><br>Exploring Data Science & Machine Learning<br>Building projects in Python and Data Analytics<br>Working on Stock Analysis & CO₂ Estimation Projects<br>🛠 Tech Stack:<br><br>Languages: Python<br>Frameworks & Tools: Pandas, Scikit-Learn, TensorFlow<br>Databases: MySQL, MongoDB<br>Other Skills: Data Preprocessing, Web Scraping, NLP<br><br>📈 Current Projects:<br>Stock Analysis Project 📊<br>CO₂ Estimation Project 🌱<br><br>📫 Let's Connect:<br>LinkedIn: https://www.linkedin.com/in/aditya-rawat-b6635521a/<br>Email: adityarawat9917@gmail.com
+👋 Hey, I'm Aditya Rawat!<br>🚀 Data Science Enthusiast | MCA @ IGNOU |🔍 What I do:<br><br>Exploring Data Science & Machine Learning<br>Building projects in Python and Data Analytics<br>Working on Stock Analysis & CO₂ Estimation Projects<br>🛠 Tech Stack:<br><br>Languages: Python<br>Frameworks & Tools: Pandas, Scikit-Learn, TensorFlow<br>Databases: MySQL, MongoDB<br>Other Skills: Data Preprocessing, Web Scraping, NLP<br><br>📈 Current Projects:<br>Stock Analysis Project 📊<br>CO₂ Estimation Project 🌱<br><br>📫 Let's Connect:<br>LinkedIn: https://www.linkedin.com/in/aditya-rawat-b6635521a/<br>Email: adityarawat9917@gmail.com
 
 
 ## 🌐 Socials:
