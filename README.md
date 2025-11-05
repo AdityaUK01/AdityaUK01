@@ -1,7 +1,27 @@
 # 💫 About Me:
-👋 Hey, I'm Aditya Rawat!<br>🚀 Data Science Enthusiast | MCA @ IGNOU |🔍 What I do:<br><br>Exploring Data Science & Machine Learning<br>Building projects in Python and Data Analytics<br>Working on Stock Analysis & CO₂ Estimation Projects<br>🛠 Tech Stack:<br><br>Languages: Python<br>Frameworks & Tools: Pandas, Scikit-Learn, TensorFlow<br>Databases: MySQL, <br>Other Skills: Data Preprocessing, Web Scraping, NLP<br><br>📈 Current Projects:<br>Stock Analysis Project 📊<br>CO₂ Estimation Project 🌱<br><br>📫 Let's Connect:<br>LinkedIn: https://www.linkedin.com/in/aditya-rawat-b6635521a/<br>Email: adityarawat9917@gmail.com
+👋 Hey, I'm Aditya Rawat!
+🚀 Aspiring Data Engineer | 🎓 BCA Graduate (Kumaun University) | 🧰 IBM Certified
 
+🔍 What I Do:
 
+Designing and automating ETL data pipelines using Python, SQL, and Apache Airflow
+
+Working with AWS S3, MySQL, and data warehousing concepts
+
+Building data-driven projects for analytics and cloud integration
+
+🛠 Tech Stack:
+Languages: Python, SQL
+Frameworks & Tools: Apache Airflow, Pandas, NumPy, dbt
+Databases: MySQL, PostgreSQL
+Cloud: AWS (S3, Glue, Redshift - basics)
+Other Skills: Data Modeling, Workflow Automation, Data Preprocessing
+
+📈 Current Projects:
+
+🧩 Retail Sales Data Warehouse / Cloud Project — automated ETL pipeline using Airflow and AWS S3
+
+📊 YouTube Trending Data Pipeline — API-based data ingestion and transformation using Python and MySQL
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/adityarawatuk20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](
 https://www.linkedin.com/in/aditya-rawat-b6635521a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityarawat9917@gmail.com) 
